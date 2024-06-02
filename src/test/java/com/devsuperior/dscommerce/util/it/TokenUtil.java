@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.util;
+package com.devsuperior.dscommerce.util.it;
 
 import static org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.httpBasic;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.controllers;
+package com.devsuperior.dscommerce.controllers.it;
 
 import com.devsuperior.dscommerce.dto.OrderDTO;
 import com.devsuperior.dscommerce.entities.Order;
@@ -8,7 +8,7 @@ import com.devsuperior.dscommerce.entities.Product;
 import com.devsuperior.dscommerce.entities.User;
 import com.devsuperior.dscommerce.tests.ProductFactory;
 import com.devsuperior.dscommerce.tests.UserFactory;
-import com.devsuperior.dscommerce.util.TokenUtil;
+import com.devsuperior.dscommerce.util.it.TokenUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
